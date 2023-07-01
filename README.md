@@ -5,6 +5,9 @@ The objective of this Python code repo is to create a Streamlit application that
 
 **Dashboard**: [This is the link to Streamlit app hosted on Streamlit cloud server](https://adarshkuthuru-motor-vehicle-collision-anal-srcadarsh-app-l1fegq.streamlit.app/)
 
+If you see the below message, click on `Yes, get this app back up!` button
+![13](https://github.com/adarshkuthuru/Motor-Vehicle-Collision-Analysis-with-Streamlit-App/blob/main/images/Error.jpg)
+
 The code imports various dependencies such as Streamlit, pandas, numpy, pydeck, plotly.express, and sodapy. 
 
 The main function `gen_dashboard` is responsible for creating the entire application. It first loads the data from the NYC Open Data API using the `load_data` function, which retrieves a specified number of records and performs some initial cleaning.
